@@ -42,3 +42,36 @@ Veja acima como ocorre a interação. Selecionamos apenas o produto **Paseo** qu
 ## Análise
 
 Através da análise apresentada na **terceira página**, podemos observar que as regiões com os maiores números de vendas não foram, necessariamente, as que obtiveram o maior lucro. Essa discrepância pode ser atribuída a diversos fatores, como os custos operacionais variáveis entre as regiões, a diferença nos preços de venda e a eficiência das estratégias de marketing implementadas. Portanto, é crucial considerar não apenas o volume de vendas, mas também a margem de lucro ao avaliar o desempenho regional.
+
+---
+
+<br></br>
+<br></br>
+
+# Criando um Dashboard Gerencial para Tomada de Decisões Com Power BI
+
+A partir da Sample acima vamos criar um novo relatório mais estético e com mais funcionalidades.
+
+- Botões para navegação entre as páginas.
+- Alterar o viés de gráficos.
+- Melhorar a visibilidade dos relatórios.
+- Utilização de proporção áureo para criação de gráficos.
+- Segmentação de Dados.
+
+## Sales
+
+![sales]()
+
+A primeira página dedicamos apenas para os dados referente às vendas. Incluimos também os botões de navegação entre páginas e um botão para alterar o tipo de gráfico entre Vendas por Produto e Vendas por Segmento.
+
+## Profit
+
+![profit]()
+
+A segunda página foi dedicada aos dados de Lucro. Detalhamos o lucro por segmento, lucro por ano e trimestre e criamos um botão para voltar para a Home Page.
+
+## Report
+
+![report]()
+
+A terceira página dedicamos para mostrar os dados por períodos, mostrando a evolução das vendas ao longo dos meses e anos.
