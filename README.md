@@ -60,18 +60,18 @@ A partir da Sample acima vamos criar um novo relatório mais estético e com mai
 
 ## Sales
 
-![sales]()
+![sales](https://raw.githubusercontent.com/devcaiada/sample-powerbi-dio/main/images/1-sales.png)
 
 A primeira página dedicamos apenas para os dados referente às vendas. Incluimos também os botões de navegação entre páginas e um botão para alterar o tipo de gráfico entre Vendas por Produto e Vendas por Segmento.
 
 ## Profit
 
-![profit]()
+![profit](https://github.com/devcaiada/sample-powerbi-dio/blob/main/images/2-profit.png?raw=true)
 
 A segunda página foi dedicada aos dados de Lucro. Detalhamos o lucro por segmento, lucro por ano e trimestre e criamos um botão para voltar para a Home Page.
 
 ## Report
 
-![report]()
+![report](https://github.com/devcaiada/sample-powerbi-dio/blob/main/images/3-report.png?raw=true)
 
 A terceira página dedicamos para mostrar os dados por períodos, mostrando a evolução das vendas ao longo dos meses e anos.
