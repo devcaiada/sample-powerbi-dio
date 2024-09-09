@@ -75,3 +75,18 @@ A segunda página foi dedicada aos dados de Lucro. Detalhamos o lucro por segmen
 ![report](https://github.com/devcaiada/sample-powerbi-dio/blob/main/images/3-report.png?raw=true)
 
 A terceira página dedicamos para mostrar os dados por períodos, mostrando a evolução das vendas ao longo dos meses e anos.
+
+---
+
+<br></br>
+<br></br>
+
+# Relatório de Vendas e Lucros com Data Analytics e Power BI
+
+Agora, vamos aprofundar nosso relatório de vendas utilizando a amostra financeira. Vamos incluir um relatório gerencial completo que aborde as vendas e os lucros, além de utilizar opções avançadas como Top N, Gráfico de Dispersão e Gráficos Dinâmicos, acessíveis através de botões.
+
+Também criaremos botões para navegação entre as páginas, tornando nosso relatório mais responsivo. Por fim, faremos uma verificação de outliers e adicionaremos uma pequena animação para representar o período analisado.
+
+![capa]()
+
+
