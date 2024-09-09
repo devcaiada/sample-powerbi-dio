@@ -87,6 +87,40 @@ Agora, vamos aprofundar nosso relatório de vendas utilizando a amostra financei
 
 Também criaremos botões para navegação entre as páginas, tornando nosso relatório mais responsivo. Por fim, faremos uma verificação de outliers e adicionaremos uma pequena animação para representar o período analisado.
 
-![capa]()
+## Capa
 
+![capa](https://github.com/devcaiada/sample-powerbi-dio/blob/main/images/final_report/images/Capa.png?raw=true)
 
+A capa é bem estética e possui um botão **Explorar análise** que nos leva à pagina principal do relatório. 
+
+## Principal
+
+![principal](https://github.com/devcaiada/sample-powerbi-dio/blob/main/images/final_report/images/Principal.png?raw=true)
+
+Já na pagina principal encontramos todas as informações necessárias sobre vendas. Total de vendas, vendas por segmento, por país, por período e ainda possui dois gráficos dinamicos, onde podemos mudar o seu tipo e visualizar melhor as informações conforme necessário.
+
+## Detalhes
+
+![detalhes](https://github.com/devcaiada/sample-powerbi-dio/blob/main/images/final_report/images/Detalhes.png?raw=true)
+
+Já na página de detalhes temos gráficos mais avançados, como um Histograma das unidades vendidas, uma matriz com as vendas por trimestre e um gráfico dinâmico de venda por período, onde é possível escolher entre semestre ou mês através dos botões acima.
+
+## TOP N e Outliers
+
+![TOPN](https://github.com/devcaiada/sample-powerbi-dio/blob/main/images/final_report/images/TOPN.png?raw=true)
+
+A última página apresenta dois gráficos utilizando a função P e R. No primeiro gráfico, mostramos os Top 3 produtos vendidos por país, enquanto no segundo gráfico destacamos os Top 3 produtos mais vendidos no geral.
+
+Além disso, incluímos um gráfico de dispersão de vendas, que permite observar o comportamento das vendas de cada produto ao longo dos meses. Utilizando o Eixo de Reprodução, é possível visualizar uma animação dessa variação ao longo do período analisado.
+
+## Considerações finais
+
+Um relatório gerencial em Power BI é uma ferramenta poderosa para a tomada de decisões estratégicas. Ele permite a visualização e análise de dados de forma interativa e dinâmica, facilitando a identificação de tendências, padrões e insights valiosos.
+
+![icon](https://github.com/devcaiada/sample-powerbi-dio/blob/main/images/final_report/icons/sales_icon.png?raw=true)
+
+Utilizar diferentes tipos de gráficos em um relatório gerencial no Power BI permite uma análise mais completa e detalhada dos dados de vendas. Isso não só melhora a compreensão dos dados, mas também apoia a tomada de decisões informadas e estratégicas, contribuindo para o sucesso e crescimento do negócio.
+
+Caso tenha ficado curioso ou queira saber mais sobre esse relatório, o arquivo ficara disponível para download nesse repositório:
+
+* **sales_report_desafio_projeto.pbix**
