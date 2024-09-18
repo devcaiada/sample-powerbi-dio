@@ -109,9 +109,17 @@ Já na página de detalhes temos gráficos mais avançados, como um Histograma d
 
 ![TOPN](https://github.com/devcaiada/sample-powerbi-dio/blob/main/images/final_report/images/TOPN.png?raw=true)
 
-A última página apresenta dois gráficos utilizando a função P e R. No primeiro gráfico, mostramos os Top 3 produtos vendidos por país, enquanto no segundo gráfico destacamos os Top 3 produtos mais vendidos no geral.
+A terceira página apresenta dois gráficos utilizando a função P e R. No primeiro gráfico, mostramos os Top 3 produtos vendidos por país, enquanto no segundo gráfico destacamos os Top 3 produtos mais vendidos no geral.
 
 Além disso, incluímos um gráfico de dispersão de vendas, que permite observar o comportamento das vendas de cada produto ao longo dos meses. Utilizando o Eixo de Reprodução, é possível visualizar uma animação dessa variação ao longo do período analisado.
+
+## Parâmetros
+
+![parameter]()
+
+Na última pagina adicionamos um gráfico de segmento e um gráfico de vendas / lucro, utilizando parâmetros como comparação. Cada botão acima apresenta um parâmetro, como vendas, produto, mês e outros.
+Assim os gráficos ficam mais dinâmicos e consigo ecnomizar páginas para contrastar as informações.
+
 
 ## Considerações finais
 
@@ -124,3 +132,4 @@ Utilizar diferentes tipos de gráficos em um relatório gerencial no Power BI pe
 Caso tenha ficado curioso ou queira saber mais sobre esse relatório, o arquivo ficara disponível para download nesse repositório:
 
 * **sales_report_desafio_projeto.pbix**
+
