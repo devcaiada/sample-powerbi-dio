@@ -91,7 +91,7 @@ Também criaremos botões para navegação entre as páginas, tornando nosso rel
 
 ![capa](https://github.com/devcaiada/sample-powerbi-dio/blob/main/images/final_report/images/Capa.png?raw=true)
 
-A capa é bem estética e possui um botão **Explorar análise** que nos leva à pagina principal do relatório. 
+A capa é bem estética e possui um botão **Explorar análise** que nos leva à pagina principal do relatório.
 
 ## Principal
 
@@ -115,11 +115,14 @@ Além disso, incluímos um gráfico de dispersão de vendas, que permite observa
 
 ## Parâmetros
 
-![parameter]()
+![parameter](https://github.com/devcaiada/sample-powerbi-dio/blob/main/images/final_report/images/country%20parameter.png?raw=true)
 
 Na última pagina adicionamos um gráfico de segmento e um gráfico de vendas / lucro, utilizando parâmetros como comparação. Cada botão acima apresenta um parâmetro, como vendas, produto, mês e outros.
 Assim os gráficos ficam mais dinâmicos e consigo ecnomizar páginas para contrastar as informações.
 
+![parameter2](https://github.com/devcaiada/sample-powerbi-dio/blob/main/images/final_report/images/Month%20parameters.png?raw=true)
+
+Cada botão selecionado em parâmetro, um novo gráfico é apresentado na tela, deixando as informações muito mais dinâmicas e econômicas.
 
 ## Considerações finais
 
@@ -131,5 +134,4 @@ Utilizar diferentes tipos de gráficos em um relatório gerencial no Power BI pe
 
 Caso tenha ficado curioso ou queira saber mais sobre esse relatório, o arquivo ficara disponível para download nesse repositório:
 
-* **sales_report_desafio_projeto.pbix**
-
+- **sales_report_desafio_projeto.pbix**
