@@ -134,4 +134,4 @@ Utilizar diferentes tipos de gráficos em um relatório gerencial no Power BI pe
 
 Caso tenha ficado curioso ou queira saber mais sobre esse relatório, o arquivo ficara disponível para download nesse repositório:
 
-- **sales_report_desafio_projeto.pbix**
+- [**sales_report_desafio_projeto.pbix**](https://github.com/devcaiada/sample-powerbi-dio/blob/main/sales_report_desafio_projeto.pbix)
